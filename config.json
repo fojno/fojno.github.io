@@ -1,0 +1,17 @@
+{
+    "title":"自留地",
+    "subTitle":"挥手说再见的星期天早晨",
+    "homeUrl":"https://fojno.github.io",
+    "avatarUrl":"https://i0.wp.com/raw.githubusercontent.com/fojno/fojno.github.io/main/images/fav.png",
+    "faviconUrl":"https://i0.wp.com/raw.githubusercontent.com/fojno/fojno.github.io/main/images/fav.png",
+    "email":"pjiu@duck.com",
+    "startSite":"02/22/2022",
+    "urlMode":"issue",
+    "onePageListNum":15,
+    "commentLabelColor":"#4c6cb3",
+    "yearColorList":["#FFF100", "#EE7700", "#009944", "#00A1E8", "#8EC41E"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
+    "singlePage":["link","about"],
+    "GMEEK_VERSION":"last"
+}
