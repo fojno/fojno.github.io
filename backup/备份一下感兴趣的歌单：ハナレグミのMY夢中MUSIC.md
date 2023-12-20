@@ -5,6 +5,8 @@
 ハナレグミが”夢中”になっている楽曲をセレクトしたプレイリストが本日より５週に渡って公開されますので要チェックです!!
 
 ![](https://i0.wp.com/www.hanaregumi.jp/playlist_CP/img/title_20231201.png?w=600)
+https://jvcmusic.lnk.to/muchu_playlist_guitar
+
 １：MY夢中／ハナレグミ
 
 ２：Scar Tissue／Red Hot Chili Peppers
@@ -66,6 +68,8 @@ jimiはドキドキしすぎて、早めに向こう側へ行きましたが
 を想像したら。泣けて動けなくなった。
 
 ![](https://i0.wp.com/www.hanaregumi.jp/playlist_CP/img/title_20231208.png?w=600)
+https://jvcmusic.lnk.to/muchu_playlist_hikigatari
+
 １：MY夢中／ハナレグミ
 
 ２：Hallelujah／Jeff Buckley
@@ -137,6 +141,8 @@ bloodline maintenanceと両方、アナログ即買いしました。
 いろんな弾き語りをぜひ聴きに行ってみてください。
 
 ![](https://i0.wp.com/www.hanaregumi.jp/playlist_CP/img/title_20231215.png?w=600)
+https://jvcmusic.lnk.to/muchu_playlist_yukifurumachi
+
 １：MY夢中／ハナレグミ
 
 ２：Excuses／The Morning Benders
